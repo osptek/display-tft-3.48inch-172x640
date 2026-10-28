@@ -1,0 +1,10 @@
+id: YDP348BT001-V1
+category: displays
+size: "3.48"
+panel: tft
+resolution: 172x640
+interface: [spi, qspi]
+driver: AXS15231B
+touch: null
+outline: 28.99 x 92.89 mm
+active_area: 22.58 x 84 mm
